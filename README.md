@@ -21,7 +21,7 @@ cd IP_SEARCHER
 python IP_ALL.py
 
 
-©️Copyright by 𝚅𝟷𝙽𝙶𝟺𝙳𝟶𝚁
+©️Copyright by 𝚅𝟷𝙽𝙶𝟺𝙳𝟶𝚁     
 Discord: 𝚅𝟷𝙽𝙶𝟺𝙳𝟶𝚁_𝐶𝑟𝑦#0942
 Email: vingadorbps@gmail.com
 
